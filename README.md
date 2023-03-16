@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Royalone94/Royalone94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
+Github README
 
 <h1 align="center"><b></b><br>Agile Full Stack Developer</h1>
 
@@ -30,7 +29,9 @@ Platform&Tools
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![CSS3](https://img.shields.io/badge/-React-00BCD4?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![React.js](https://img.shields.io/badge/-React-00BCD4?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![Django](https://img.shields.io/badge/-Django-00BCD4?style=flat-square&logo=django&logoColor=ffffff)](https://www.djangoproject.com/)
+[![Python](https://img.shields.io/badge/-Python-00BCD4?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-FF9800?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)](https://www.ecma-international.org/)
 [![JQuery](https://img.shields.io/badge/-JQuery-8BC34A?style=flat-square&logo=jQuery&logoColor=ffffff)](https://jquery.com/)
